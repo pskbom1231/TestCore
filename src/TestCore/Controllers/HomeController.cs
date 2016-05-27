@@ -10,7 +10,7 @@ namespace TestCore.Controllers
     {
         public IActionResult Index()
         {
-            ViewBag.Title = "ASD_Test    ";   
+            ViewBag.Title = "ASD_Test   ddsss ";   
             return View();
         }
 
